@@ -1,3 +1,4 @@
+
 var firstName = 'Mahi';
 console.log(firstName);
 
@@ -11,3 +12,6 @@ console.log(job);
 
 job = 'Teacher';
 console.log(job)
+
+
+
